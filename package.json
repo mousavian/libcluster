@@ -1,5 +1,5 @@
 {
-  "name": "mousavian/libcluster",
+  "name": "libcluster",
   "version": "1.0.0",
   "description": "Automatic message distributer for Nodejs applications in Kubernetes environment",
   "main": "index.js",
