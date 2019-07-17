@@ -1,0 +1,28 @@
+{
+  "name": "mousavian/libcluster",
+  "version": "1.0.0",
+  "description": "Automatic message distributer for Nodejs applications in Kubernetes environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mousavian/libcluster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mousavian/libcluster/issues"
+  },
+  "keywords": [
+    "libcluster",
+    "kubernetes",
+    "cluster",
+    "notification"
+  ],
+  "author": "Rahman Mousavian",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.3",
+    "request": "^2.88.0"
+  }
+}
